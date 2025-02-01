@@ -1,0 +1,83 @@
+
+chatgpt:
+def create_network(file_name):
+
+unique_users = []
+for u, v in connections:
+    if u not in unique_users:
+        unique_users.append(u)
+        if v not in unique_users:
+            unique_users.append(v)
+for user in unique_users:
+    friends_list = []
+    for u, v in connections:
+        if u == user:
+            friends_list.append(v)
+            elif v == user:
+                friends_list.append(u)
+                if friends_list:
+                    network.append((user, friends_list))
+
+
+yuting yuan:
+  
+    unique_users = []
+    for u, v in friendship:
+        if u not in unique_users:
+            unique_users.append(u)
+        if v not in unique_users:
+            unique_users.append(v)
+
+    for user in unique_users:
+        friends_list = []
+        for u, v in friendship:
+            if u == user:
+                friends_list.append(v)
+            elif v == user:
+                friends_list.append(u)
+        if friends_list:
+            network.append((user,sorted(friends_list)))   
+
+ 
+yuting:
+
+def recommend(user, network):
+user_friends = []
+    for u, friends in network:
+        if u == user:
+            user_friends = friends
+    if not user_friends:
+    return None
+    max_common_friends = -1
+    recommended_friend = None
+    
+    for potential_friend, potential_friends_list in network:
+        if potential_friend != user and potential_friend not in user_friends:
+            common_friends = getCommonFriends(user, potential_friend, network)
+            num_common = len(common_friends)
+            if num_common > max_common_friends or (num_common == max_common_friends and (recommended_friend is None or potential_friend < recommended_friend)):
+                max_common_friends = num_common
+                recommended_friend = potential_friend
+            
+    return recommended_friend
+    pass
+
+chatgpt:
+    user_friends = []
+    for u, friends in network:
+        if u == user:
+            user_friends = friends
+    if not user_friends:
+    return None
+    max_common_friends = -1
+    recommended_friend = None
+    
+    for potential_friend, potential_friends_list in network:
+        if potential_friend != user and potential_friend not in user_friends:
+            common_friends = getCommonFriends(user, potential_friend, network)
+            num_common = len(common_friends)
+            if num_common > max_common_friends or (num_common == max_common_friends and (recommended_friend is None or potential_friend < recommended_friend)):
+                max_common_friends = num_common
+                recommended_friend = potential_friend
+            
+    return recommended_friend

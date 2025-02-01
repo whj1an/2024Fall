@@ -1,0 +1,9 @@
+Question 1: 1 mile = 1.60934km
+<To convert miles per hour to kilometres per hour, multiply the speed value in mph by 1.60934. This factor comes from the exact equivalence of one mile to 1.60934 kilometres. Google>
+
+Question10:
+t.fillcolor("yellow")
+<Python笔记之通过turtle库绘制图形（详细介绍turtle库的函数方法）!https://blog.csdn.net/qq_44437695/article/details/104762815>
+
+Question 11: return math.ceil(math.log2(n))
+<ChatGPT>

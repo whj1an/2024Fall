@@ -1,0 +1,14 @@
+Part 1_1
+<Chat GPT>:
+        print_complex_roots(real_part, imaginary_part)
+Mine: 
+        print(f"The quadratic equation {a}x^2+{b}x+{c}=0 has follwing two complex roots: {real_part} + i {ima_part} and {real_part} + i {ima_part}")
+
+Part1_2
+https://blog.csdn.net/haoaiqian/article/details/70228177
+>>> a = 'hello world'
+>>> a.replace(' ', '')
+'helloworld'
+
+Mine:
+	Line 116: question = question.replace(" ","").lower()

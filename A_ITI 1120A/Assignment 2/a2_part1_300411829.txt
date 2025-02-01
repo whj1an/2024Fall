@@ -1,0 +1,233 @@
+Here is what pressing Run on your program (Part 1) should look like:
+
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Haojian
+Hi Haojian. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+3 or other character(s) for none of the above?1
+Haojian you are not a target audience for this software.Good bye Haojian!
+Good bye Haojian!
+
+= RESTART: D:\All_My_Files\2024-2025\A_ITI 1120A\Assignment 2\a2_part1_300411829.py
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Haojian
+Hi Haojian. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+**************************************************************************
+*                                                                        *
+* _Haojian, welcome to my quiz-generator for elementary school students_ *
+*                                                                        *
+**************************************************************************
+Haojian what would you like to practice? Enter 
+ 0 for inverse of exponentiation 
+ 1 for exponentaiation 
+0
+How many practice questions would you like to do? Enter 0, 1, or 2: 2
+Question 1: 
+ 2 to what is 1 i.e. what is the result of log_2(1)?0
+Question 2: 
+ 2 to what is 512 i.e. what is the result of log_2(512)?9
+Congratulations Haojian! You’ll probably get an A tomorrow. Good bye Mia!
+Good bye Haojian!
+
+= RESTART: D:\All_My_Files\2024-2025\A_ITI 1120A\Assignment 2\a2_part1_300411829.py
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Haojian
+Hi Haojian. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+Ah
+Haojian you are not a target audience for this software.Good bye Haojian!
+Good bye Haojian!
+
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Haojian
+Hi Haojian. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+2
+****************************************************************
+*                                                              *
+* _quadratic equation, a·x^2 + b·x + c= 0, solver for Haojian_ *
+*                                                              *
+****************************************************************
+Haojian, would you like a quadratic equation solved? YeS
+Good choice!
+Enter a number the coefficient a:1
+Enter a number the coefficient b:2
+Enter a number the coefficient c:3
+The quadratic equation 1·x^2 + 2·x + 3 = 0
+The quadratic equation 1x^2+2x+3=0 has follwing two complex roots: 
+ -1.0 + i 1.4142135623730951 
+ and 
+ -1.0 + i 1.4142135623730951
+Haojian, would you like a quadratic equation solved?        yeS
+Good choice!
+Enter a number the coefficient a:-1
+Enter a number the coefficient b:10
+Enter a number the coefficient c:36
+The quadratic equation -1·x^2 + 10·x + 36 = 0
+The quadratic equation -1x^2+10*x+36=0 has the following real roots: -2.810249675906654, 
+ 12.810249675906654
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Haojian
+Hi Haojian. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+2
+****************************************************************
+*                                                              *
+* _quadratic equation, a·x^2 + b·x + c= 0, solver for Haojian_ *
+*                                                              *
+****************************************************************
+Haojian, would you like a quadratic equation solved? Y  es
+Good choice!
+Enter a number the coefficient a:0
+Enter a number the coefficient b:2.5
+Enter a number the coefficient c:3.246
+The quadratic equation 0.0·x^2 + 2.5·x + 3.246 = 0
+The quadratic equation 2.5*x+c=0 has the following root/solution: -1.2984
+aojian, would you like a quadratic equation solved? Yes
+Good choice!
+Enter a number the coefficient a:0
+Enter a number the coefficient b:0
+Enter a number the coefficient c:2.5
+The quadratic equation 0.0·x^2 + 0.0·x + 2.5 = 0
+The quadratic equation 0*x + 2.5 = 0 is satisfied for no numbers x
+Haojian, would you like a quadratic equation solved? yes
+Good choice!
+Enter a number the coefficient a:0
+Enter a number the coefficient b:0
+Enter a number the coefficient c:0
+The quadratic equation 0.0·x^2 + 0.0·x + 0.0 = 0
+The quadratic equation 0*x^2+0*x+0=0 is satisfied for all numbers x
+Haojian, would you like a quadratic equation solved? No
+Good bye Haojian!
+
+= RESTART: D:\All_My_Files\2024-2025\A_ITI 1120A\Assignment 2\a2_part1_300411829.py
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Ji-Ah
+Hi Ji-Ah. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+************************************************************************
+*                                                                      *
+* _Ji-Ah, welcome to my quiz-generator for elementary school students_ *
+*                                                                      *
+************************************************************************
+Ji-Ah what would you like to practice? Enter 
+ 0 for inverse of exponentiation 
+ 1 for exponentaiation 
+5
+Invalid chose. Only 0 or 1 is accepted.
+Good bye Ji-Ah!
+
+= RESTART: D:\All_My_Files\2024-2025\A_ITI 1120A\Assignment 2\a2_part1_300411829.py
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Hippolyta
+Hi Hippolyta. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+****************************************************************************
+*                                                                          *
+* _Hippolyta, welcome to my quiz-generator for elementary school students_ *
+*                                                                          *
+****************************************************************************
+Hippolyta what would you like to practice? Enter 
+ 0 for inverse of exponentiation 
+ 1 for exponentaiation 
+0
+How many practice questions would you like to do? Enter 0, 1, or 2: 0
+Zero questions. OK. Good bye
+Good bye Hippolyta!
+
+= RESTART: D:\All_My_Files\2024-2025\A_ITI 1120A\Assignment 2\a2_part1_300411829.py
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Leti
+Hi Leti. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+***********************************************************************
+*                                                                     *
+* _Leti, welcome to my quiz-generator for elementary school students_ *
+*                                                                     *
+***********************************************************************
+Leti what would you like to practice? Enter 
+ 0 for inverse of exponentiation 
+ 1 for exponentaiation 
+1
+How many practice questions would you like to do? Enter 0, 1, or 2: 2.5
+Only 0,1, or 2 are valid choices for the number of questions.
+Good bye Leti!
+= RESTART: D:\All_My_Files\2024-2025\A_ITI 1120A\Assignment 2\a2_part1_300411829.py
+***************************************
+*                                     *
+* _Welcome to my math quiz-generator_ *
+*                                     *
+***************************************
+What is your name? Wolf
+Hi Wolf. Are you in? Enter 
+1 for elementary school
+2 for high school or
+3 or other character(s) for none of the above?
+1
+***********************************************************************
+*                                                                     *
+* _Wolf, welcome to my quiz-generator for elementary school students_ *
+*                                                                     *
+***********************************************************************
+Wolf what would you like to practice? Enter 
+ 0 for inverse of exponentiation 
+ 1 for exponentaiation 
+1
+How many practice questions would you like to do? Enter 0, 1, or 2: 1
+Question 1: 
+ What is the result of 2^8?256
+Congratulations Wolf! You’ll probably get an A tomorrow. Good bye Mia!
+Good bye Wolf!

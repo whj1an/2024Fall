@@ -1,0 +1,56 @@
+ChatGPT:
+self.bottom_left.move(dx, dy)
+        self.top_right.move(dx, dy)
+
+Mine:
+    def move(self, dx, dy):
+        self.bottom_left.move(dx, dy)
+        self.top_right.move(dx, dy)
+
+ChatGPT:
+min_x = None
+        max_x = None
+        min_y = None
+        max_y = None
+
+        for rec in self.rectangle:
+            if min_x is None or rec.bottom_left.x < min_x:
+                min_x = rec.bottom_left.x
+
+                # Update the maximum x coordinate
+            if max_x is None or rec.top_right.x > max_x:
+                max_x = rec.top_right.x
+
+                # Update the minimum y coordinate
+            if min_y is None or rec.bottom_left.y < min_y:
+                min_y = rec.bottom_left.y
+
+                # Update the maximum y coordinate
+            if max_y is None or rec.top_right.y > max_y:
+                max_y = rec.top_right.y
+
+        return Rectangle(Point(min_x, min_y), Point(max_x, max_y))
+
+mine:
+min_x = None
+        max_x = None
+        min_y = None
+        max_y = None
+
+        for rec in self.rectangle:
+            if min_x is None or rec.bottom_left.x < min_x:
+                min_x = rec.bottom_left.x
+
+                # Update the maximum x coordinate
+            if max_x is None or rec.top_right.x > max_x:
+                max_x = rec.top_right.x
+
+                # Update the minimum y coordinate
+            if min_y is None or rec.bottom_left.y < min_y:
+                min_y = rec.bottom_left.y
+
+                # Update the maximum y coordinate
+            if max_y is None or rec.top_right.y > max_y:
+                max_y = rec.top_right.y
+
+        return Rectangle(Point(min_x, min_y), Point(max_x, max_y))

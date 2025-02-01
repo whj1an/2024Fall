@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c3830f7c550b0f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e834210ed2593e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "419e0dabba87777e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A_ITI 1120A/Py_Notes_1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Py_Notes_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28ce94c3f8f076e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "948652277d9002e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84438a9f9dd1394f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3a3ea5607971cb0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A_ITI 1120A/Py_Notes_1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Py_Notes_1 的大纲"
+            }
+          },
+          {
+            "id": "4d50719e8aa92ac5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "60fcf0f4bb72d1d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "057ba43463d5db2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272
+  },
+  "right": {
+    "id": "f818ac42dd9537d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6896925ba4975698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2decc17318193cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A_ITI 1120A/OUT_CALSS_NOTES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "OUT_CALSS_NOTES 的出链列表"
+            }
+          },
+          {
+            "id": "cbb97bd0fa083e16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A_ITI 1120A/OUT_CALSS_NOTES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "OUT_CALSS_NOTES 的反向链接列表"
+            }
+          },
+          {
+            "id": "a3b06b407f475902",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3a3ea5607971cb0b",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "A_ITI 1120A/IN_CALSS_NOTES.md",
+    "A_ITI 1120A/Py_Notes_1.md",
+    "A_ITI 1120A/A6-for_students/A6-for_students/a6_part1_xxxxxx.py~",
+    "Chapter.md",
+    "A_ITI 1120A/attachments/Pasted image 20241104210241.png",
+    "A_ITI 1120A/OUT_CALSS_NOTES.md",
+    "A_ITI 1120A/Assignment 5/A5-students/net2.txt",
+    "A_ITI 1120A/Assignment 5/A5-students/net3.txt",
+    "A_ITI 1120A/Assignment 5/A5-students/net1.txt",
+    "A_ITI 1120A/Assignment 5/A5-students/a5_xxxxxx.py",
+    "A_ITI 1120A/Assignment 5/A5-students/a5-more-example-runs.txt",
+    "A_ITI 1120A/Assignment 5/A5-students/huge.txt",
+    "A_ITI 1120A/Assignment 5/A5-students/big.txt",
+    "A_ITI 1120A/Assignment 5/__MACOSX/A5-students",
+    "A_ITI 1120A/Assignment 5/A5-students/A5.pdf",
+    "A_ITI 1120A/OUT_CALSS_NOTES.attachments/image-20241031202656183.png",
+    "Excalidraw/Drawing 2024-10-02 00.13.43.excalidraw.md",
+    "OUT_CALSS_NOTES.md",
+    "A_ADM 1100A/ADM Notes.md",
+    "A_ITI 1120A/Assignment 3/A3/A3 Notes.attachments/image-20241012202246697.png",
+    "A_ITI 1120A/Assignment 3/A3/A3 Notes.attachments/image-20241010160107156.png",
+    "A_ITI 1120A/Assignment 3/A3/A3 Notes.attachments/image-20241010154304116.png",
+    "A_ITI 1120A/Assignment 3/A3/A3 Notes.md",
+    "A_ITI 1120A/Assignment 3/A3/A3_part 1.md",
+    "A3_part 1.md",
+    "Untitled.md",
+    "A_ITI 1120A/attachments/Pasted image 20240923141527.png",
+    "A_ITI 1120A/lab5/lab5 Notes.md",
+    "A_ADM 1100A/ADM.md",
+    "A_ITI 1120A/lab5/Untitled.md",
+    "A_ITI 1120A/lab4/lab4-students/Lab4 Notes.md",
+    "A_ITI 1120A/Assignment 3/A3/Untitled.md",
+    "A_ITI 1120A/Assignment 2/A2_Notes.md",
+    "A_ITI 1120A/lab3/lab3-students/LAB 3.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Drawing 2024-10-02 00.10.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-02 00.06.47.excalidraw.md",
+    "A2 Part 1.md",
+    "Calendar.md",
+    "Voc.md",
+    "A_ITI 1120A/Assignment 2/attachments/Pasted image 20240930020050.png",
+    "A_ITI 1120A/Assignment 1/Assignment 1 Notes.md",
+    "A_ITI 1120A/Assignment 1/attachments/Pasted image 20240921004611.png"
+  ]
+}

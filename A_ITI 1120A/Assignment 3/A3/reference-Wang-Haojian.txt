@@ -1,0 +1,26 @@
+1. Python ord()函数和chr()的用法 <https://blog.csdn.net/qq_40714949/article/details/125716312> CSDN
+Mine:     for char in s:
+        each_char = ord(char) #将每个字符串转换成ASCII码
+
+2. ChatGPT:
+    # 检查去掉逗号后的字符串是否只包含数字
+    if cleaned_s.isdigit():
+        return int(cleaned_s)  # 如果是数字，返回对应的整数
+    else:
+        return None  # 如果不是有效数字，返回 None
+Mine:  if cleaned_s.isdigit():
+        	return int(cleaned_s)
+	    else:
+        	return None
+
+3. ChatGPT:
+return sum({'T': 1024, 'y': 598, '!': 121, 'a': 42, 'N': 6, 'U': 1}[char] for char in s)
+Mine: return sum({'T': 1024, 'y': 598, '!': 121, 'a': 42, 'N': 6, 'U': 1}[char] for char in s)
+
+4. ChatGPT:
+将字符串s反转的代码：reversed_s = s[::-1]
+Mine: reversed_s = s[::-1]
+
+Part 1
+5. ChatGPT
+Mine: current_N = [str_n[i:i+int_d] for i in range (0, len(str_n), int_d)]

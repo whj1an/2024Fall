@@ -1,0 +1,36 @@
+Python 3.11.4 (tags/v3.11.4:d2340ef, Jun  7 2023, 05:45:37) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: D:\All_My_Files\2024-2025\A_ITI 1120A\Assignment 2\a2.py
+min_enclosing_rectangle(1,1,1)
+(0, 0)
+min_enclosing_rectangle(4.5,10,2)
+(5.5, -2.5)
+min_enclosing_rectangle(-1, 10, 2)
+min_enclosing_rectangle(500, 1000, 2000)
+(500, 1500)
+
+vote_percentage('yes yes yes yes yes abstained abstained yes yes yes yes')
+1.0
+vote_percentage('yes,yes, no, yes, no, yes, abstained, yes, yes,no')
+0.6666666666666666
+vote_percentage('abstained no abstained yes no yes no yes yes yes no')
+0.5555555555555556
+vote_percentage('no yes no no no, yes yes yes no')
+0.4444444444444444
+
+vote()
+Enter the yes, no, abstained votes one by one and then press enter:yes yes yes yes yes abstained abstained yes yes yes yes
+proposal passes unanimously
+>>> vote()
+Enter the yes, no, abstained votes one by one and then press enter:abstained no abstained yes no yes no yes yes yes no
+proposal passes with simple majority
+>>> vote()
+Enter the yes, no, abstained votes one by one and then press enter:no yes no no no, yes yes yes no
+proposal fails
+
+>>> l2lo(7.5)
+(7, 8.0)
+>>> l2lo(9.25)
+(9, 4.0)
+

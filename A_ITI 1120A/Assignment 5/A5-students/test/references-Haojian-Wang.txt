@@ -1,0 +1,38 @@
+ChatGPT:
+    # Create a list of all unique user IDs based on the connections
+    unique_users = []
+    for u, v in connections:
+        if u not in unique_users:
+            unique_users.append(u)
+        if v not in unique_users:
+            unique_users.append(v)
+
+Mine:
+    unique_user_ids = []
+    for ele in cache:
+        if ele[0] not in unique_user_ids:
+            unique_user_ids.append(ele[0])
+        if ele[1] not in unique_user_ids:
+            unique_user_ids.append(ele[1])
+
+ChatGPT:
+    # Iterate over all users in the network to find the best friend recommendation
+    for potential_friend, potential_friends_list in network:
+        if potential_friend != user and potential_friend not in user_friends:
+            common_friends = getCommonFriends(user, potential_friend, network)
+            num_common = len(common_friends)
+
+            # Update recommendation if more common friends found, or if equal and smaller ID
+            if num_common > max_common_friends or (num_common == max_common_friends and potential_friend < recommended_friend):
+                max_common_friends = num_common
+                recommended_friend = potential_friend
+
+Mine:
+    for ele in network:
+        if ele[0] != user and ele[0] not in user_friends: # ele[0] is user name, user_friends is defined above, using for storing friends the user doesn't have. IF 
+            same_friends = getCommonFriends(user, ele[0], network)
+            num_sameFri = len(same_friends)
+
+            if num_sameFri > max_common_friends or (num_sameFri == max_common_friends and ele[0] < recommended_friend):
+                max_common_friends = num_sameFri
+                recommended_friend = ele[0]
